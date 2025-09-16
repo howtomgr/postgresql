@@ -1,0 +1,64 @@
+{
+  "category": "databases",
+  "created_date": "2025-09-15T22:48:58.733644",
+  "default_ports": [
+    1,
+    5432
+  ],
+  "dependencies": [
+    "postgresql-server",
+    "postgresql-client",
+    "postgresql-contrib"
+  ],
+  "description": "PostgreSQL is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. Originally developed at UC Berkeley as POSTGRES, it has evolved into the world's most advanced open source database, competing directly with commercial solutions like Oracle Database, Microsoft SQL Server, and IBM Db2. PostgreSQL serves as a FOSS alternative to these expensive proprietary databases while offering comparable performance, reliability, and advanced features like JSON support, full-text search, and custom data types.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/databases/postgresql",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/databases/postgresql",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.733671",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "postgresql",
+  "repository_url": "https://github.com/howtomgr/postgresql",
+  "spec_version": "2.0",
+  "subcategory": "databases",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "databases",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "PostgreSQL Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/databases/postgresql"
+}
